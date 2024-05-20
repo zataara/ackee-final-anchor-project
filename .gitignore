@@ -12,3 +12,4 @@ frontend/.swc
 frontend/.*.env
 
 .DS_Store
+frontend/.env
