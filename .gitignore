@@ -1,0 +1,14 @@
+frontend/node_modules
+anchor_project/node_modules
+anchor_project/test-ledger
+anchor_project/.anchor
+anchor_project/target
+anchor_project.yarn
+anchor_project/.DS_Store
+anchor_project/**/*.rs.bk
+
+frontend/.next
+frontend/.swc
+frontend/.*.env
+
+.DS_Store
