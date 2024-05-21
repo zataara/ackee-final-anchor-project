@@ -5,10 +5,10 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-dark_sol = "2jRqt1Vbo3AvefEuort5LvaoRPA7TQcR6KWaFDztTrdA"
+dark_sol = "CF1x7n8CDcjwJcRfPwDCecqqR2PNAmV7f79zPPU9rPip"
 
 [registry]
-url = "https://anchor.projectserum.com"
+url = "https://api.apr.dev"
 
 [provider]
 cluster = "Localnet"
